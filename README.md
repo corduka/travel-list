@@ -22,3 +22,7 @@ This project is a simple yet fun packing list manager that helps you plan what t
 - **JavaScript (ES6+)** – App logic
 
 ---
+
+## 💻 Technologies Used
+- React: The project is developed with React, a JavaScript library designed for creating interactive user interfaces.
+- useState Hook: The useState hook is utilized to handle and update the state of the items within the packing list.
